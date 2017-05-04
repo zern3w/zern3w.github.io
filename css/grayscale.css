@@ -236,11 +236,22 @@ a:focus {
 .content-section {
   padding-top: 100px;
 }
-.download-section {
+.whatido-section {
   width: 100%;
   padding: 50px 0;
   color: white;
   background: url(../img/skill-bg.jpg) no-repeat center center scroll;
+  background-color: black;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  background-size: cover;
+  -o-background-size: cover;
+}
+.exp-section {
+  width: 100%;
+  padding: 50px 0;
+  color: white;
+  background: url(../img/tools-bg.jpg) no-repeat center center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
